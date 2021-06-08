@@ -42,9 +42,9 @@
 #### 3. 앱 로고   
 앱을 상징하는 로고 제작 과정을 링크에 담았습니다.   
 https://github.com/Kim-KyungJin/sm_week03/blob/AppLogo/README.md  
-   
-최종적으로 결정된 디자인입니다.   
+    
 ![어플 2차 최종(확정)](https://user-images.githubusercontent.com/57963888/111958828-0e081080-8b31-11eb-92ba-2386b7edae8f.png)
 ![배경 최종(확정)](https://user-images.githubusercontent.com/57963888/111959121-63dcb880-8b31-11eb-85d9-a2c3607e9139.png)   
-앱 로고 / 배경   
+
+최종적으로 결정된 앱 로고 / 배경 디자인입니다.   
 
