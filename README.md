@@ -106,6 +106,5 @@ https://github.com/Kim-KyungJin/sm_week03/blob/AppLogo/README.md
 
 #### 9. 아쉬운 점   
 <pre>
-저희는 수익을 창출하기 위해 메인화면에서 마이페이지로 넘어가는 버튼을 눌렀을 때,
-전면 광고가 뜨도록 설정하였습니다.
+
 </pre>
