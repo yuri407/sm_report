@@ -95,8 +95,10 @@ https://github.com/Kim-KyungJin/sm_week03/blob/AppLogo/README.md
 저희는 수익을 창출하기 위해 메인화면에서 마이페이지로 넘어가는 버튼을 눌렀을 때,
 전면 광고가 뜨도록 설정하였습니다.
 </pre>
+![KakaoTalk_20210608_211531908](https://user-images.githubusercontent.com/57963888/121183228-d17dc280-c89e-11eb-9023-bfb9cd4c48a9.png)
 ![KakaoTalk_20210608_211210902](https://user-images.githubusercontent.com/57963888/121182860-74820c80-c89e-11eb-9471-c4d4807ed082.png)
-![KakaoTalk_20210608_211210902_01](https://user-images.githubusercontent.com/57963888/121182870-75b33980-c89e-11eb-98c6-b29708db9196.png)   
+![KakaoTalk_20210608_211210902_01](https://user-images.githubusercontent.com/57963888/121182870-75b33980-c89e-11eb-98c6-b29708db9196.png)
+![KakaoTalk_20210608_211531908_01](https://user-images.githubusercontent.com/57963888/121183231-d2aeef80-c89e-11eb-9215-2f19088fa0e5.png)   
 
 
 #### 8. 앱 실행 영상   
